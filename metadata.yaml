@@ -1,0 +1,26 @@
+_repo: '---_25137'
+_version: 0.1.0
+alternative_title: Yu Chan Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tongyuanzi
+    alias: 通元子
+    gutenberg_agent_id: '31108'
+    url: http://www.gutenberg.org/2009/agents/31108
+description: ''
+gutenberg_issued: '2008-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25137'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 玉蟾記
+url: http://www.gutenberg.org/ebooks/25137
